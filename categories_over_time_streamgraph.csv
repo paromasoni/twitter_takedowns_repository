@@ -1,0 +1,62 @@
+date,category,number_of_tweets
+2017-9,Kashmir,10
+2017-9,0,1
+2018-10,Kashmir,1
+2018-11,Kashmir,5
+2018-11,Religious/Anti-National,1
+2018-12,Religious/Anti-National,2
+2018-6,Kashmir,24
+2018-6,0,11
+2018-6,Politics/Riots,2
+2018-6,Religious/Anti-National,2
+2018-8,Kashmir,2
+2018-9,0,6
+2018-9,Kashmir,3
+2018-9,Sexual Violence,1
+2019-3,Kashmir,5
+2019-3,Politics/Riots,1
+2019-4,0,38
+2019-4,Election,19
+2019-4,Religious/Anti-National,5
+2019-4,Sexual Violence,2
+2019-4,CAA/NRC,1
+2019-5,Election,42
+2019-5,0,4
+2019-7,Politics/Riots,1
+2019-8,Religious/Anti-National,5
+2019-8,Kashmir,4
+2019-8,0,3
+2019-8,Sexual Violence,1
+2020-1,0,1
+2020-1,CAA/NRC,1
+2020-10,Kashmir,9
+2020-10,Religious/Anti-National,4
+2020-11,Sexual Violence,56
+2020-11,0,3
+2020-11,Kashmir,3
+2020-11,Religious/Anti-National,1
+2020-2,Religious/Anti-National,1
+2020-3,Kashmir,10
+2020-3,0,1
+2020-4,Religious/Anti-National,10
+2020-4,0,2
+2020-4,CAA/NRC,2
+2020-4,Election,2
+2020-4,Kashmir,1
+2020-9,0,10
+2020-9,Election,1
+2020-9,Sexual Violence,1
+2021-2,Farmer Protests,26
+2021-2,0,12
+2021-2,Politics/Riots,3
+2021-4,COVID-19,26
+2021-4,0,6
+2021-4,Kashmir,4
+2021-4,Politics/Riots,4
+2021-4,Religious/Anti-National,4
+2021-4,Election,1
+2021-4,Farmer Protests,1
+2021-6,Religious/Anti-National,67
+2021-6,Politics/Riots,8
+2021-6,0,5
+2021-6,Farmer Protests,1
